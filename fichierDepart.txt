@@ -1,14 +1,11 @@
 bonjour
 
 
-<<<<<<< HEAD
 maj Alain
 
 test ligne
-=======
 
 
 test ligne
 
 maj Alain
->>>>>>> 67319c35b3c255478d2ba1d91fd3c5fa487bdf3a
